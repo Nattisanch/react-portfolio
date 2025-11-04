@@ -16,12 +16,3 @@ JavaScript
 HTML5
 CSS
 
-⚠️ Copyright Notice
-
-© 2025 Natalie Sanchez. All Rights Reserved.
-
-This portfolio and its source code are the intellectual property of Natalie Sanchez.
-No part of this code, design, or artwork may be copied, modified, reused, or distributed without explicit written permission from the author.
-
-You may view this project for personal or educational purposes only.
-Commercial or public use of any part of this repository is strictly prohibited.
